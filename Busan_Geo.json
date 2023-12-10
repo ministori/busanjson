@@ -8,18 +8,18 @@
         "coordinates": []
       },
       "properties": {
-        "name": "26110",
+        "SIG_CD": "26110",
         "SIG_ENG_NM": "Jung-gu",
-        "SIG_KOR_NM": "중구"
+        "name": "중구"
       }
     },
     {
       "type": "Feature",
       "geometry": {},
       "properties": {
-        "name": "26140",
+        "SIG_CD": "26140",
         "SIG_ENG_NM": "Seo-gu",
-        "SIG_KOR_NM": "서구"
+        "name": "서구"
       }
     },
     {
@@ -428,9 +428,9 @@
         ]
       },
       "properties": {
-        "name": "26170",
+        "SIG_CD": "26170",
         "SIG_ENG_NM": "Dong-gu",
-        "SIG_KOR_NM": "동구"
+        "name": "동구"
       }
     },
     {
@@ -907,9 +907,9 @@
         ]
       },
       "properties": {
-        "name": "26200",
+        "SIG_CD": "26200",
         "SIG_ENG_NM": "Yeongdo-gu",
-        "SIG_KOR_NM": "영도구"
+        "name": "영도구"
       }
     },
     {
@@ -1762,9 +1762,9 @@
         ]
       },
       "properties": {
-        "name": "26230",
+        "SIG_CD": "26230",
         "SIG_ENG_NM": "Busanjin-gu",
-        "SIG_KOR_NM": "부산진구"
+        "name": "부산진구"
       }
     },
     {
@@ -2757,9 +2757,9 @@
         ]
       },
       "properties": {
-        "name": "26260",
+        "SIG_CD": "26260",
         "SIG_ENG_NM": "Dongnae-gu",
-        "SIG_KOR_NM": "동래구"
+        "name": "동래구"
       }
     },
     {
@@ -3438,9 +3438,9 @@
         ]
       },
       "properties": {
-        "name": "26290",
+        "SIG_CD": "26290",
         "SIG_ENG_NM": "Nam-gu",
-        "SIG_KOR_NM": "남구"
+        "name": "남구"
       }
     },
     {
@@ -4033,9 +4033,9 @@
         ]
       },
       "properties": {
-        "name": "26320",
+        "SIG_CD": "26320",
         "SIG_ENG_NM": "Buk-gu",
-        "SIG_KOR_NM": "북구"
+        "name": "북구"
       }
     },
     {
@@ -5092,9 +5092,9 @@
         ]
       },
       "properties": {
-        "name": "26350",
+        "SIG_CD": "26350",
         "SIG_ENG_NM": "Haeundae-gu",
-        "SIG_KOR_NM": "해운대구"
+        "name": "해운대구"
       }
     },
     {
@@ -6553,9 +6553,9 @@
         ]
       },
       "properties": {
-        "name": "26380",
+        "SIG_CD": "26380",
         "SIG_ENG_NM": "Saha-gu",
-        "SIG_KOR_NM": "사하구"
+        "name": "사하구"
       }
     },
     {
@@ -7748,9 +7748,9 @@
         ]
       },
       "properties": {
-        "name": "26410",
+        "SIG_CD": "26410",
         "SIG_ENG_NM": "Geumjeong-gu",
-        "SIG_KOR_NM": "금정구"
+        "name": "금정구"
       }
     },
     {
@@ -10473,9 +10473,9 @@
         ]
       },
       "properties": {
-        "name": "26440",
+        "SIG_CD": "26440",
         "SIG_ENG_NM": "Gangseo-gu",
-        "SIG_KOR_NM": "강서구"
+        "name": "강서구"
       }
     },
     {
@@ -11384,9 +11384,9 @@
         ]
       },
       "properties": {
-        "name": "26470",
+        "SIG_CD": "26470",
         "SIG_ENG_NM": "Yeonje-gu",
-        "SIG_KOR_NM": "연제구"
+        "name": "연제구"
       }
     },
     {
@@ -11923,9 +11923,9 @@
         ]
       },
       "properties": {
-        "name": "26500",
+        "SIG_CD": "26500",
         "SIG_ENG_NM": "Suyeong-gu",
-        "SIG_KOR_NM": "수영구"
+        "name": "수영구"
       }
     },
     {
@@ -12670,9 +12670,9 @@
         ]
       },
       "properties": {
-        "name": "26530",
+        "SIG_CD": "26530",
         "SIG_ENG_NM": "Sasang-gu",
-        "SIG_KOR_NM": "사상구"
+        "name": "사상구"
       }
     },
     {
@@ -14849,9 +14849,9 @@
         ]
       },
       "properties": {
-        "name": "26710",
+        "SIG_CD": "26710",
         "SIG_ENG_NM": "Gijang-gun",
-        "SIG_KOR_NM": "기장군"
+        "name": "기장군"
       }
     }
   ]
