@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 425,
-        "name": "부산광역시 중구 중앙동",
+        "name": "중앙동",
         "adm_cd": "2101051",
         "adm_cd2": "2611051000",
         "sgg": "26110",
@@ -247,7 +247,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 426,
-        "name": "부산광역시 중구 동광동",
+        "name": "동광동",
         "adm_cd": "2101052",
         "adm_cd2": "2611052000",
         "sgg": "26110",
@@ -477,7 +477,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 427,
-        "name": "부산광역시 중구 대청동",
+        "name": "대청동",
         "adm_cd": "2101053",
         "adm_cd2": "2611053000",
         "sgg": "26110",
@@ -607,7 +607,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 428,
-        "name": "부산광역시 중구 보수동",
+        "name": "보수동",
         "adm_cd": "2101054",
         "adm_cd2": "2611054500",
         "sgg": "26110",
@@ -673,7 +673,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 429,
-        "name": "부산광역시 중구 부평동",
+        "name": "부평동",
         "adm_cd": "2101056",
         "adm_cd2": "2611056000",
         "sgg": "26110",
@@ -743,7 +743,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 430,
-        "name": "부산광역시 중구 광복동",
+        "name": "광복동",
         "adm_cd": "2101057",
         "adm_cd2": "2611057000",
         "sgg": "26110",
@@ -913,7 +913,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 431,
-        "name": "부산광역시 중구 남포동",
+        "name": "남포동",
         "adm_cd": "2101058",
         "adm_cd2": "2611058000",
         "sgg": "26110",
@@ -1051,7 +1051,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 432,
-        "name": "부산광역시 중구 영주1동",
+        "name": "영주1동",
         "adm_cd": "2101059",
         "adm_cd2": "2611059000",
         "sgg": "26110",
@@ -1117,7 +1117,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 433,
-        "name": "부산광역시 중구 영주2동",
+        "name": "영주2동",
         "adm_cd": "2101060",
         "adm_cd2": "2611060000",
         "sgg": "26110",
@@ -1231,7 +1231,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 434,
-        "name": "부산광역시 서구 동대신1동",
+        "name": " 동대신1동",
         "adm_cd": "2102051",
         "adm_cd2": "2614051000",
         "sgg": "26140",
@@ -1313,7 +1313,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 435,
-        "name": "부산광역시 서구 동대신2동",
+        "name": " 동대신2동",
         "adm_cd": "2102052",
         "adm_cd2": "2614052000",
         "sgg": "26140",
@@ -1443,7 +1443,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 436,
-        "name": "부산광역시 서구 동대신3동",
+        "name": " 동대신3동",
         "adm_cd": "2102053",
         "adm_cd2": "2614053000",
         "sgg": "26140",
@@ -1605,7 +1605,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 437,
-        "name": "부산광역시 서구 서대신1동",
+        "name": " 서대신1동",
         "adm_cd": "2102054",
         "adm_cd2": "2614054000",
         "sgg": "26140",
@@ -1799,7 +1799,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 438,
-        "name": "부산광역시 서구 서대신3동",
+        "name": " 서대신3동",
         "adm_cd": "2102056",
         "adm_cd2": "2614056000",
         "sgg": "26140",
@@ -2061,7 +2061,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 439,
-        "name": "부산광역시 서구 서대신4동",
+        "name": " 서대신4동",
         "adm_cd": "2102057",
         "adm_cd2": "2614057000",
         "sgg": "26140",
@@ -2287,7 +2287,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 440,
-        "name": "부산광역시 서구 부민동",
+        "name": " 부민동",
         "adm_cd": "2102059",
         "adm_cd2": "2614059000",
         "sgg": "26140",
@@ -2417,7 +2417,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 441,
-        "name": "부산광역시 서구 아미동",
+        "name": " 아미동",
         "adm_cd": "2102061",
         "adm_cd2": "2614061500",
         "sgg": "26140",
@@ -2603,7 +2603,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 442,
-        "name": "부산광역시 서구 초장동",
+        "name": " 초장동",
         "adm_cd": "2102063",
         "adm_cd2": "2614063000",
         "sgg": "26140",
@@ -2737,7 +2737,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 443,
-        "name": "부산광역시 서구 충무동",
+        "name": " 충무동",
         "adm_cd": "2102064",
         "adm_cd2": "2614064000",
         "sgg": "26140",
@@ -2823,7 +2823,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 444,
-        "name": "부산광역시 서구 남부민1동",
+        "name": " 남부민1동",
         "adm_cd": "2102065",
         "adm_cd2": "2614065000",
         "sgg": "26140",
@@ -2945,7 +2945,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 445,
-        "name": "부산광역시 서구 암남동",
+        "name": " 암남동",
         "adm_cd": "2102068",
         "adm_cd2": "2614068000",
         "sgg": "26140",
@@ -3459,7 +3459,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 446,
-        "name": "부산광역시 서구 남부민2동",
+        "name": " 남부민2동",
         "adm_cd": "2102069",
         "adm_cd2": "2614066000",
         "sgg": "26140",
@@ -3561,7 +3561,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 447,
-        "name": "부산광역시 동구 초량1동",
+        "name": " 초량1동",
         "adm_cd": "2103051",
         "adm_cd2": "2617051000",
         "sgg": "26170",
@@ -3643,7 +3643,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 448,
-        "name": "부산광역시 동구 초량2동",
+        "name": " 초량2동",
         "adm_cd": "2103052",
         "adm_cd2": "2617052000",
         "sgg": "26170",
@@ -3749,7 +3749,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 449,
-        "name": "부산광역시 동구 초량3동",
+        "name": " 초량3동",
         "adm_cd": "2103053",
         "adm_cd2": "2617053000",
         "sgg": "26170",
@@ -3983,7 +3983,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 450,
-        "name": "부산광역시 동구 초량6동",
+        "name": " 초량6동",
         "adm_cd": "2103055",
         "adm_cd2": "2617055000",
         "sgg": "26170",
@@ -4137,7 +4137,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 451,
-        "name": "부산광역시 동구 수정1동",
+        "name": " 수정1동",
         "adm_cd": "2103056",
         "adm_cd2": "2617056000",
         "sgg": "26170",
@@ -4295,7 +4295,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 452,
-        "name": "부산광역시 동구 수정2동",
+        "name": " 수정2동",
         "adm_cd": "2103057",
         "adm_cd2": "2617057000",
         "sgg": "26170",
@@ -4465,7 +4465,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 453,
-        "name": "부산광역시 동구 수정4동",
+        "name": " 수정4동",
         "adm_cd": "2103059",
         "adm_cd2": "2617059000",
         "sgg": "26170",
@@ -4615,7 +4615,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 454,
-        "name": "부산광역시 동구 수정5동",
+        "name": " 수정5동",
         "adm_cd": "2103060",
         "adm_cd2": "2617060000",
         "sgg": "26170",
@@ -4749,7 +4749,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 455,
-        "name": "부산광역시 동구 범일2동",
+        "name": " 범일2동",
         "adm_cd": "2103066",
         "adm_cd2": "2617066000",
         "sgg": "26170",
@@ -4823,7 +4823,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 456,
-        "name": "부산광역시 동구 범일1동",
+        "name": " 범일1동",
         "adm_cd": "2103071",
         "adm_cd2": "2617065000",
         "sgg": "26170",
@@ -5077,7 +5077,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 457,
-        "name": "부산광역시 동구 범일5동",
+        "name": " 범일5동",
         "adm_cd": "2103068",
         "adm_cd2": "2617068000",
         "sgg": "26170",
@@ -5187,7 +5187,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 458,
-        "name": "부산광역시 동구 좌천동",
+        "name": " 좌천동",
         "adm_cd": "2103070",
         "adm_cd2": "2617064500",
         "sgg": "26170",
@@ -5325,7 +5325,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 459,
-        "name": "부산광역시 영도구 남항동",
+        "name": "남항동",
         "adm_cd": "2104053",
         "adm_cd2": "2620053000",
         "sgg": "26200",
@@ -5563,7 +5563,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 460,
-        "name": "부산광역시 영도구 영선1동",
+        "name": "영선1동",
         "adm_cd": "2104054",
         "adm_cd2": "2620054000",
         "sgg": "26200",
@@ -5621,7 +5621,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 461,
-        "name": "부산광역시 영도구 영선2동",
+        "name": "영선2동",
         "adm_cd": "2104055",
         "adm_cd2": "2620055000",
         "sgg": "26200",
@@ -5851,7 +5851,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 462,
-        "name": "부산광역시 영도구 봉래1동",
+        "name": "봉래1동",
         "adm_cd": "2104059",
         "adm_cd2": "2620059000",
         "sgg": "26200",
@@ -5925,7 +5925,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 463,
-        "name": "부산광역시 영도구 청학1동",
+        "name": "청학1동",
         "adm_cd": "2104063",
         "adm_cd2": "2620063000",
         "sgg": "26200",
@@ -6111,7 +6111,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 464,
-        "name": "부산광역시 영도구 청학2동",
+        "name": "청학2동",
         "adm_cd": "2104064",
         "adm_cd2": "2620064000",
         "sgg": "26200",
@@ -6261,7 +6261,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 465,
-        "name": "부산광역시 영도구 동삼1동",
+        "name": "동삼1동",
         "adm_cd": "2104065",
         "adm_cd2": "2620065000",
         "sgg": "26200",
@@ -6531,7 +6531,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 466,
-        "name": "부산광역시 영도구 동삼2동",
+        "name": "동삼2동",
         "adm_cd": "2104066",
         "adm_cd2": "2620066000",
         "sgg": "26200",
@@ -6921,7 +6921,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 467,
-        "name": "부산광역시 영도구 동삼3동",
+        "name": "동삼3동",
         "adm_cd": "2104067",
         "adm_cd2": "2620067000",
         "sgg": "26200",
@@ -7107,7 +7107,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 468,
-        "name": "부산광역시 영도구 신선동",
+        "name": "신선동",
         "adm_cd": "2104068",
         "adm_cd2": "2620058500",
         "sgg": "26200",
@@ -7273,7 +7273,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 469,
-        "name": "부산광역시 영도구 봉래2동",
+        "name": "봉래2동",
         "adm_cd": "2104069",
         "adm_cd2": "2620060500",
         "sgg": "26200",
@@ -7443,7 +7443,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 470,
-        "name": "부산광역시 부산진구 부전2동",
+        "name": "부전2동",
         "adm_cd": "2105052",
         "adm_cd2": "2623052000",
         "sgg": "26230",
@@ -7525,7 +7525,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 471,
-        "name": "부산광역시 부산진구 연지동",
+        "name": "연지동",
         "adm_cd": "2105054",
         "adm_cd2": "2623054000",
         "sgg": "26230",
@@ -7759,7 +7759,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 472,
-        "name": "부산광역시 부산진구 초읍동",
+        "name": "초읍동",
         "adm_cd": "2105055",
         "adm_cd2": "2623055000",
         "sgg": "26230",
@@ -8177,7 +8177,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 473,
-        "name": "부산광역시 부산진구 양정1동",
+        "name": "양정1동",
         "adm_cd": "2105056",
         "adm_cd2": "2623056000",
         "sgg": "26230",
@@ -8451,7 +8451,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 474,
-        "name": "부산광역시 부산진구 양정2동",
+        "name": "양정2동",
         "adm_cd": "2105057",
         "adm_cd2": "2623057000",
         "sgg": "26230",
@@ -8601,7 +8601,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 475,
-        "name": "부산광역시 부산진구 전포2동",
+        "name": "전포2동",
         "adm_cd": "2105061",
         "adm_cd2": "2623061000",
         "sgg": "26230",
@@ -8763,7 +8763,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 476,
-        "name": "부산광역시 부산진구 부암1동",
+        "name": "부암1동",
         "adm_cd": "2105064",
         "adm_cd2": "2623064000",
         "sgg": "26230",
@@ -9005,7 +9005,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 477,
-        "name": "부산광역시 부산진구 부암3동",
+        "name": "부암3동",
         "adm_cd": "2105066",
         "adm_cd2": "2623066000",
         "sgg": "26230",
@@ -9279,7 +9279,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 478,
-        "name": "부산광역시 부산진구 당감2동",
+        "name": "당감2동",
         "adm_cd": "2105068",
         "adm_cd2": "2623068000",
         "sgg": "26230",
@@ -9473,7 +9473,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 479,
-        "name": "부산광역시 부산진구 당감4동",
+        "name": "당감4동",
         "adm_cd": "2105070",
         "adm_cd2": "2623070000",
         "sgg": "26230",
@@ -9615,7 +9615,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 480,
-        "name": "부산광역시 부산진구 가야2동",
+        "name": "가야2동",
         "adm_cd": "2105072",
         "adm_cd2": "2623072000",
         "sgg": "26230",
@@ -9805,7 +9805,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 481,
-        "name": "부산광역시 부산진구 개금1동",
+        "name": "개금1동",
         "adm_cd": "2105074",
         "adm_cd2": "2623074000",
         "sgg": "26230",
@@ -9923,7 +9923,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 482,
-        "name": "부산광역시 부산진구 개금2동",
+        "name": "개금2동",
         "adm_cd": "2105075",
         "adm_cd2": "2623075000",
         "sgg": "26230",
@@ -10065,7 +10065,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 483,
-        "name": "부산광역시 부산진구 개금3동",
+        "name": "개금3동",
         "adm_cd": "2105076",
         "adm_cd2": "2623076000",
         "sgg": "26230",
@@ -10287,7 +10287,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 484,
-        "name": "부산광역시 부산진구 당감1동",
+        "name": "당감1동",
         "adm_cd": "2105080",
         "adm_cd2": "2623067000",
         "sgg": "26230",
@@ -10545,7 +10545,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 485,
-        "name": "부산광역시 부산진구 가야제1동",
+        "name": "가야제1동",
         "adm_cd": "2105081",
         "adm_cd2": "2623071000",
         "sgg": "26230",
@@ -10855,7 +10855,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 486,
-        "name": "부산광역시 부산진구 부전1동",
+        "name": "부전1동",
         "adm_cd": "2105082",
         "adm_cd2": "2623051000",
         "sgg": "26230",
@@ -11057,7 +11057,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 487,
-        "name": "부산광역시 부산진구 전포1동",
+        "name": "전포1동",
         "adm_cd": "2105083",
         "adm_cd2": "2623060000",
         "sgg": "26230",
@@ -11195,7 +11195,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 488,
-        "name": "부산광역시 동래구 수민동",
+        "name": "수민동",
         "adm_cd": "2106051",
         "adm_cd2": "2626051000",
         "sgg": "26260",
@@ -11397,7 +11397,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 489,
-        "name": "부산광역시 동래구 복산동",
+        "name": "복산동",
         "adm_cd": "2106052",
         "adm_cd2": "2626052000",
         "sgg": "26260",
@@ -11583,7 +11583,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 490,
-        "name": "부산광역시 동래구 온천1동",
+        "name": "온천1동",
         "adm_cd": "2106055",
         "adm_cd2": "2626055000",
         "sgg": "26260",
@@ -11781,7 +11781,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 491,
-        "name": "부산광역시 동래구 온천2동",
+        "name": "온천2동",
         "adm_cd": "2106056",
         "adm_cd2": "2626056000",
         "sgg": "26260",
@@ -11999,7 +11999,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 492,
-        "name": "부산광역시 동래구 온천3동",
+        "name": "온천3동",
         "adm_cd": "2106057",
         "adm_cd2": "2626057000",
         "sgg": "26260",
@@ -12217,7 +12217,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 493,
-        "name": "부산광역시 동래구 사직1동",
+        "name": "사직1동",
         "adm_cd": "2106058",
         "adm_cd2": "2626058000",
         "sgg": "26260",
@@ -12327,7 +12327,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 494,
-        "name": "부산광역시 동래구 사직2동",
+        "name": "사직2동",
         "adm_cd": "2106059",
         "adm_cd2": "2626059000",
         "sgg": "26260",
@@ -12497,7 +12497,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 495,
-        "name": "부산광역시 동래구 사직3동",
+        "name": "사직3동",
         "adm_cd": "2106060",
         "adm_cd2": "2626060000",
         "sgg": "26260",
@@ -12627,7 +12627,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 496,
-        "name": "부산광역시 동래구 안락1동",
+        "name": "안락1동",
         "adm_cd": "2106061",
         "adm_cd2": "2626074000",
         "sgg": "26260",
@@ -12805,7 +12805,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 497,
-        "name": "부산광역시 동래구 안락2동",
+        "name": "안락2동",
         "adm_cd": "2106062",
         "adm_cd2": "2626075000",
         "sgg": "26260",
@@ -13055,7 +13055,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 498,
-        "name": "부산광역시 동래구 명장1동",
+        "name": "명장1동",
         "adm_cd": "2106063",
         "adm_cd2": "2626076100",
         "sgg": "26260",
@@ -13257,7 +13257,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 499,
-        "name": "부산광역시 동래구 명장2동",
+        "name": "명장2동",
         "adm_cd": "2106064",
         "adm_cd2": "2626076200",
         "sgg": "26260",
@@ -13531,7 +13531,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 500,
-        "name": "부산광역시 동래구 명륜동",
+        "name": "명륜동",
         "adm_cd": "2106065",
         "adm_cd2": "2626054500",
         "sgg": "26260",
@@ -13761,7 +13761,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 501,
-        "name": "부산광역시 남구 대연3동",
+        "name": "대연3동",
         "adm_cd": "2107053",
         "adm_cd2": "2629053000",
         "sgg": "26290",
@@ -14159,7 +14159,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 502,
-        "name": "부산광역시 남구 대연4동",
+        "name": "대연4동",
         "adm_cd": "2107054",
         "adm_cd2": "2629054000",
         "sgg": "26290",
@@ -14357,7 +14357,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 503,
-        "name": "부산광역시 남구 대연5동",
+        "name": "대연5동",
         "adm_cd": "2107055",
         "adm_cd2": "2629055000",
         "sgg": "26290",
@@ -14571,7 +14571,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 504,
-        "name": "부산광역시 남구 대연6동",
+        "name": "대연6동",
         "adm_cd": "2107056",
         "adm_cd2": "2629056000",
         "sgg": "26290",
@@ -14745,7 +14745,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 505,
-        "name": "부산광역시 남구 용호1동",
+        "name": "용호1동",
         "adm_cd": "2107057",
         "adm_cd2": "2629057000",
         "sgg": "26290",
@@ -14939,7 +14939,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 506,
-        "name": "부산광역시 남구 용호2동",
+        "name": "용호2동",
         "adm_cd": "2107058",
         "adm_cd2": "2629058000",
         "sgg": "26290",
@@ -15085,7 +15085,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 507,
-        "name": "부산광역시 남구 용호3동",
+        "name": "용호3동",
         "adm_cd": "2107059",
         "adm_cd2": "2629059000",
         "sgg": "26290",
@@ -15235,7 +15235,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 508,
-        "name": "부산광역시 남구 용호4동",
+        "name": "용호4동",
         "adm_cd": "2107060",
         "adm_cd2": "2629060000",
         "sgg": "26290",
@@ -15433,7 +15433,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 509,
-        "name": "부산광역시 남구 용당동",
+        "name": "용당동",
         "adm_cd": "2107061",
         "adm_cd2": "2629061000",
         "sgg": "26290",
@@ -15687,7 +15687,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 510,
-        "name": "부산광역시 남구 감만1동",
+        "name": "감만1동",
         "adm_cd": "2107062",
         "adm_cd2": "2629062000",
         "sgg": "26290",
@@ -15841,7 +15841,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 511,
-        "name": "부산광역시 남구 감만2동",
+        "name": "감만2동",
         "adm_cd": "2107063",
         "adm_cd2": "2629063000",
         "sgg": "26290",
@@ -15951,7 +15951,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 512,
-        "name": "부산광역시 남구 문현1동",
+        "name": "문현1동",
         "adm_cd": "2107066",
         "adm_cd2": "2629068000",
         "sgg": "26290",
@@ -16105,7 +16105,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 513,
-        "name": "부산광역시 남구 문현2동",
+        "name": "문현2동",
         "adm_cd": "2107067",
         "adm_cd2": "2629069000",
         "sgg": "26290",
@@ -16219,7 +16219,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 514,
-        "name": "부산광역시 남구 문현3동",
+        "name": "문현3동",
         "adm_cd": "2107068",
         "adm_cd2": "2629070000",
         "sgg": "26290",
@@ -16441,7 +16441,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 515,
-        "name": "부산광역시 남구 문현4동",
+        "name": "문현4동",
         "adm_cd": "2107069",
         "adm_cd2": "2629071000",
         "sgg": "26290",
@@ -16615,7 +16615,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 516,
-        "name": "부산광역시 남구 대연1동",
+        "name": "대연1동",
         "adm_cd": "2107070",
         "adm_cd2": "2629051000",
         "sgg": "26290",
@@ -16845,7 +16845,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 517,
-        "name": "부산광역시 남구 우암동",
+        "name": "우암동",
         "adm_cd": "2107071",
         "adm_cd2": "2629064500",
         "sgg": "26290",
@@ -17143,7 +17143,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 518,
-        "name": "부산광역시 북구 구포1동",
+        "name": "구포1동",
         "adm_cd": "2108051",
         "adm_cd2": "2632051000",
         "sgg": "26320",
@@ -17409,7 +17409,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 519,
-        "name": "부산광역시 북구 구포2동",
+        "name": "구포2동",
         "adm_cd": "2108052",
         "adm_cd2": "2632052000",
         "sgg": "26320",
@@ -17619,7 +17619,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 520,
-        "name": "부산광역시 북구 구포3동",
+        "name": "구포3동",
         "adm_cd": "2108053",
         "adm_cd2": "2632052100",
         "sgg": "26320",
@@ -17889,7 +17889,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 521,
-        "name": "부산광역시 북구 금곡동",
+        "name": "금곡동",
         "adm_cd": "2108054",
         "adm_cd2": "2632053000",
         "sgg": "26320",
@@ -18303,7 +18303,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 522,
-        "name": "부산광역시 북구 화명1동",
+        "name": "화명1동",
         "adm_cd": "2108055",
         "adm_cd2": "2632054100",
         "sgg": "26320",
@@ -18681,7 +18681,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 523,
-        "name": "부산광역시 북구 덕천1동",
+        "name": "덕천1동",
         "adm_cd": "2108056",
         "adm_cd2": "2632055000",
         "sgg": "26320",
@@ -18867,7 +18867,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 524,
-        "name": "부산광역시 북구 덕천2동",
+        "name": "덕천2동",
         "adm_cd": "2108057",
         "adm_cd2": "2632056000",
         "sgg": "26320",
@@ -19153,7 +19153,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 525,
-        "name": "부산광역시 북구 덕천3동",
+        "name": "덕천3동",
         "adm_cd": "2108058",
         "adm_cd2": "2632056100",
         "sgg": "26320",
@@ -19395,7 +19395,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 526,
-        "name": "부산광역시 북구 만덕1동",
+        "name": "만덕1동",
         "adm_cd": "2108059",
         "adm_cd2": "2632057100",
         "sgg": "26320",
@@ -19757,7 +19757,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 527,
-        "name": "부산광역시 북구 만덕2동",
+        "name": "만덕2동",
         "adm_cd": "2108060",
         "adm_cd2": "2632057200",
         "sgg": "26320",
@@ -20071,7 +20071,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 528,
-        "name": "부산광역시 북구 만덕3동",
+        "name": "만덕3동",
         "adm_cd": "2108061",
         "adm_cd2": "2632057300",
         "sgg": "26320",
@@ -20325,7 +20325,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 529,
-        "name": "부산광역시 북구 화명2동",
+        "name": "화명2동",
         "adm_cd": "2108062",
         "adm_cd2": "2632054200",
         "sgg": "26320",
@@ -20643,7 +20643,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 530,
-        "name": "부산광역시 북구 화명3동",
+        "name": "화명3동",
         "adm_cd": "2108063",
         "adm_cd2": "2632054300",
         "sgg": "26320",
@@ -20917,7 +20917,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 531,
-        "name": "부산광역시 해운대구 우1동",
+        "name": "우1동",
         "adm_cd": "2109073",
         "adm_cd2": "2635051000",
         "sgg": "26350",
@@ -21351,7 +21351,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 532,
-        "name": "부산광역시 해운대구 우2동",
+        "name": "우2동",
         "adm_cd": "2109074",
         "adm_cd2": "2635052000",
         "sgg": "26350",
@@ -21745,7 +21745,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 533,
-        "name": "부산광역시 해운대구 중1동",
+        "name": "중1동",
         "adm_cd": "2109053",
         "adm_cd2": "2635053000",
         "sgg": "26350",
@@ -22091,7 +22091,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 534,
-        "name": "부산광역시 해운대구 중2동",
+        "name": "중2동",
         "adm_cd": "2109054",
         "adm_cd2": "2635054000",
         "sgg": "26350",
@@ -22397,7 +22397,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 535,
-        "name": "부산광역시 해운대구 송정동",
+        "name": "송정동",
         "adm_cd": "2109056",
         "adm_cd2": "2635056000",
         "sgg": "26350",
@@ -22743,7 +22743,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 536,
-        "name": "부산광역시 해운대구 반여2동",
+        "name": "반여2동",
         "adm_cd": "2109058",
         "adm_cd2": "2635058000",
         "sgg": "26350",
@@ -22913,7 +22913,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 537,
-        "name": "부산광역시 해운대구 반여3동",
+        "name": "반여3동",
         "adm_cd": "2109059",
         "adm_cd2": "2635059000",
         "sgg": "26350",
@@ -23115,7 +23115,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 538,
-        "name": "부산광역시 해운대구 반송2동",
+        "name": "반송2동",
         "adm_cd": "2109062",
         "adm_cd2": "2635062000",
         "sgg": "26350",
@@ -23481,7 +23481,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 539,
-        "name": "부산광역시 해운대구 재송1동",
+        "name": "재송1동",
         "adm_cd": "2109064",
         "adm_cd2": "2635065000",
         "sgg": "26350",
@@ -23711,7 +23711,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 540,
-        "name": "부산광역시 해운대구 재송2동",
+        "name": "재송2동",
         "adm_cd": "2109065",
         "adm_cd2": "2635066000",
         "sgg": "26350",
@@ -23925,7 +23925,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 541,
-        "name": "부산광역시 해운대구 좌1동",
+        "name": "좌1동",
         "adm_cd": "2109066",
         "adm_cd2": "2635055100",
         "sgg": "26350",
@@ -24163,7 +24163,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 542,
-        "name": "부산광역시 해운대구 좌2동",
+        "name": "좌2동",
         "adm_cd": "2109067",
         "adm_cd2": "2635055200",
         "sgg": "26350",
@@ -24461,7 +24461,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 543,
-        "name": "부산광역시 해운대구 좌3동",
+        "name": "좌3동",
         "adm_cd": "2109068",
         "adm_cd2": "2635055300",
         "sgg": "26350",
@@ -24607,7 +24607,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 544,
-        "name": "부산광역시 해운대구 좌4동",
+        "name": "좌4동",
         "adm_cd": "2109069",
         "adm_cd2": "2635055400",
         "sgg": "26350",
@@ -25117,7 +25117,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 545,
-        "name": "부산광역시 해운대구 반여1동",
+        "name": "반여1동",
         "adm_cd": "2109070",
         "adm_cd2": "2635057000",
         "sgg": "26350",
@@ -25611,7 +25611,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 546,
-        "name": "부산광역시 해운대구 반여4동",
+        "name": "반여4동",
         "adm_cd": "2109071",
         "adm_cd2": "2635059500",
         "sgg": "26350",
@@ -25765,7 +25765,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 547,
-        "name": "부산광역시 해운대구 반송1동",
+        "name": "반송1동",
         "adm_cd": "2109072",
         "adm_cd2": "2635061000",
         "sgg": "26350",
@@ -26243,7 +26243,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 548,
-        "name": "부산광역시 사하구 괴정1동",
+        "name": "괴정1동",
         "adm_cd": "2110051",
         "adm_cd2": "2638051000",
         "sgg": "26380",
@@ -26425,7 +26425,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 549,
-        "name": "부산광역시 사하구 괴정2동",
+        "name": "괴정2동",
         "adm_cd": "2110052",
         "adm_cd2": "2638052000",
         "sgg": "26380",
@@ -26607,7 +26607,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 550,
-        "name": "부산광역시 사하구 괴정3동",
+        "name": "괴정3동",
         "adm_cd": "2110053",
         "adm_cd2": "2638053000",
         "sgg": "26380",
@@ -26817,7 +26817,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 551,
-        "name": "부산광역시 사하구 괴정4동",
+        "name": "괴정4동",
         "adm_cd": "2110054",
         "adm_cd2": "2638054000",
         "sgg": "26380",
@@ -27047,7 +27047,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 552,
-        "name": "부산광역시 사하구 당리동",
+        "name": "당리동",
         "adm_cd": "2110055",
         "adm_cd2": "2638055000",
         "sgg": "26380",
@@ -27433,7 +27433,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 553,
-        "name": "부산광역시 사하구 하단1동",
+        "name": "하단1동",
         "adm_cd": "2110056",
         "adm_cd2": "2638056100",
         "sgg": "26380",
@@ -27735,7 +27735,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 554,
-        "name": "부산광역시 사하구 하단2동",
+        "name": "하단2동",
         "adm_cd": "2110057",
         "adm_cd2": "2638056200",
         "sgg": "26380",
@@ -27881,7 +27881,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 555,
-        "name": "부산광역시 사하구 신평1동",
+        "name": "신평1동",
         "adm_cd": "2110058",
         "adm_cd2": "2638057100",
         "sgg": "26380",
@@ -28043,7 +28043,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 556,
-        "name": "부산광역시 사하구 신평2동",
+        "name": "신평2동",
         "adm_cd": "2110059",
         "adm_cd2": "2638057200",
         "sgg": "26380",
@@ -28257,7 +28257,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 557,
-        "name": "부산광역시 사하구 장림1동",
+        "name": "장림1동",
         "adm_cd": "2110060",
         "adm_cd2": "2638058000",
         "sgg": "26380",
@@ -28479,7 +28479,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 558,
-        "name": "부산광역시 사하구 장림2동",
+        "name": "장림2동",
         "adm_cd": "2110061",
         "adm_cd2": "2638059000",
         "sgg": "26380",
@@ -28709,7 +28709,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 559,
-        "name": "부산광역시 사하구 다대1동",
+        "name": "다대1동",
         "adm_cd": "2110062",
         "adm_cd2": "2638060100",
         "sgg": "26380",
@@ -29327,7 +29327,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 560,
-        "name": "부산광역시 사하구 다대2동",
+        "name": "다대2동",
         "adm_cd": "2110063",
         "adm_cd2": "2638060200",
         "sgg": "26380",
@@ -29569,7 +29569,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 561,
-        "name": "부산광역시 사하구 구평동",
+        "name": "구평동",
         "adm_cd": "2110064",
         "adm_cd2": "2638061000",
         "sgg": "26380",
@@ -29907,7 +29907,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 562,
-        "name": "부산광역시 사하구 감천1동",
+        "name": "감천1동",
         "adm_cd": "2110065",
         "adm_cd2": "2638062000",
         "sgg": "26380",
@@ -30129,7 +30129,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 563,
-        "name": "부산광역시 사하구 감천2동",
+        "name": "감천2동",
         "adm_cd": "2110066",
         "adm_cd2": "2638063000",
         "sgg": "26380",
@@ -30255,7 +30255,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 564,
-        "name": "부산광역시 금정구 서1동",
+        "name": "서1동",
         "adm_cd": "2111051",
         "adm_cd2": "2641051000",
         "sgg": "26410",
@@ -30353,7 +30353,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 565,
-        "name": "부산광역시 금정구 서2동",
+        "name": "서2동",
         "adm_cd": "2111052",
         "adm_cd2": "2641052000",
         "sgg": "26410",
@@ -30479,7 +30479,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 566,
-        "name": "부산광역시 금정구 금사회동동",
+        "name": "금사회동동",
         "adm_cd": "2111073",
         "adm_cd2": "2641055500",
         "sgg": "26410",
@@ -30869,7 +30869,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 567,
-        "name": "부산광역시 금정구 부곡1동",
+        "name": "부곡1동",
         "adm_cd": "2111057",
         "adm_cd2": "2641057000",
         "sgg": "26410",
@@ -30995,7 +30995,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 568,
-        "name": "부산광역시 금정구 부곡2동",
+        "name": "부곡2동",
         "adm_cd": "2111058",
         "adm_cd2": "2641058000",
         "sgg": "26410",
@@ -31169,7 +31169,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 569,
-        "name": "부산광역시 금정구 부곡3동",
+        "name": "부곡3동",
         "adm_cd": "2111059",
         "adm_cd2": "2641059000",
         "sgg": "26410",
@@ -31791,7 +31791,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 570,
-        "name": "부산광역시 금정구 부곡4동",
+        "name": "부곡4동",
         "adm_cd": "2111060",
         "adm_cd2": "2641059100",
         "sgg": "26410",
@@ -31909,7 +31909,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 571,
-        "name": "부산광역시 금정구 장전1동",
+        "name": "장전1동",
         "adm_cd": "2111061",
         "adm_cd2": "2641060000",
         "sgg": "26410",
@@ -32191,7 +32191,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 572,
-        "name": "부산광역시 금정구 선두구동",
+        "name": "선두구동",
         "adm_cd": "2111064",
         "adm_cd2": "2641063500",
         "sgg": "26410",
@@ -32777,7 +32777,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 573,
-        "name": "부산광역시 금정구 청룡노포동",
+        "name": "청룡노포동",
         "adm_cd": "2111067",
         "adm_cd2": "2641066500",
         "sgg": "26410",
@@ -33375,7 +33375,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 574,
-        "name": "부산광역시 금정구 남산동",
+        "name": "남산동",
         "adm_cd": "2111068",
         "adm_cd2": "2641067000",
         "sgg": "26410",
@@ -33749,7 +33749,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 575,
-        "name": "부산광역시 금정구 구서1동",
+        "name": "구서1동",
         "adm_cd": "2111069",
         "adm_cd2": "2641068000",
         "sgg": "26410",
@@ -34043,7 +34043,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 576,
-        "name": "부산광역시 금정구 구서2동",
+        "name": "구서2동",
         "adm_cd": "2111070",
         "adm_cd2": "2641069000",
         "sgg": "26410",
@@ -34309,7 +34309,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 577,
-        "name": "부산광역시 금정구 금성동",
+        "name": "금성동",
         "adm_cd": "2111071",
         "adm_cd2": "2641070000",
         "sgg": "26410",
@@ -34715,7 +34715,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 578,
-        "name": "부산광역시 금정구 서3동",
+        "name": "서3동",
         "adm_cd": "2111072",
         "adm_cd2": "2641053000",
         "sgg": "26410",
@@ -34857,7 +34857,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 579,
-        "name": "부산광역시 강서구 대저1동",
+        "name": "대저1동",
         "adm_cd": "2112051",
         "adm_cd2": "2644051000",
         "sgg": "26440",
@@ -35339,7 +35339,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 580,
-        "name": "부산광역시 강서구 대저2동",
+        "name": "대저2동",
         "adm_cd": "2112052",
         "adm_cd2": "2644052000",
         "sgg": "26440",
@@ -35817,7 +35817,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 581,
-        "name": "부산광역시 강서구 강동동",
+        "name": "강동동",
         "adm_cd": "2112053",
         "adm_cd2": "2644053000",
         "sgg": "26440",
@@ -36395,7 +36395,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 582,
-        "name": "부산광역시 강서구 명지1동",
+        "name": "명지1동",
         "adm_cd": "2112059",
         "adm_cd2": "2644053500",
         "sgg": "26440",
@@ -36717,7 +36717,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 583,
-        "name": "부산광역시 강서구 가락동",
+        "name": "가락동",
         "adm_cd": "2112055",
         "adm_cd2": "2644055000",
         "sgg": "26440",
@@ -37311,7 +37311,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 584,
-        "name": "부산광역시 강서구 녹산동",
+        "name": "녹산동",
         "adm_cd": "2112056",
         "adm_cd2": "2644056000",
         "sgg": "26440",
@@ -38425,7 +38425,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 585,
-        "name": "부산광역시 강서구 가덕도동",
+        "name": "가덕도동",
         "adm_cd": "2112058",
         "adm_cd2": "2644058000",
         "sgg": "26440",
@@ -39179,7 +39179,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 586,
-        "name": "부산광역시 연제구 거제1동",
+        "name": "거제1동",
         "adm_cd": "2113051",
         "adm_cd2": "2647061000",
         "sgg": "26470",
@@ -39349,7 +39349,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 587,
-        "name": "부산광역시 연제구 거제2동",
+        "name": "거제2동",
         "adm_cd": "2113052",
         "adm_cd2": "2647062000",
         "sgg": "26470",
@@ -39495,7 +39495,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 588,
-        "name": "부산광역시 연제구 거제3동",
+        "name": "거제3동",
         "adm_cd": "2113053",
         "adm_cd2": "2647063000",
         "sgg": "26470",
@@ -39621,7 +39621,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 589,
-        "name": "부산광역시 연제구 거제4동",
+        "name": "거제4동",
         "adm_cd": "2113054",
         "adm_cd2": "2647064000",
         "sgg": "26470",
@@ -39767,7 +39767,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 590,
-        "name": "부산광역시 연제구 연산1동",
+        "name": "연산1동",
         "adm_cd": "2113055",
         "adm_cd2": "2647065000",
         "sgg": "26470",
@@ -39937,7 +39937,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 591,
-        "name": "부산광역시 연제구 연산2동",
+        "name": "연산2동",
         "adm_cd": "2113056",
         "adm_cd2": "2647066000",
         "sgg": "26470",
@@ -40123,7 +40123,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 592,
-        "name": "부산광역시 연제구 연산3동",
+        "name": "연산3동",
         "adm_cd": "2113057",
         "adm_cd2": "2647067000",
         "sgg": "26470",
@@ -40369,7 +40369,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 593,
-        "name": "부산광역시 연제구 연산4동",
+        "name": "연산4동",
         "adm_cd": "2113058",
         "adm_cd2": "2647068000",
         "sgg": "26470",
@@ -40507,7 +40507,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 594,
-        "name": "부산광역시 연제구 연산5동",
+        "name": "연산5동",
         "adm_cd": "2113059",
         "adm_cd2": "2647069000",
         "sgg": "26470",
@@ -40597,7 +40597,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 595,
-        "name": "부산광역시 연제구 연산6동",
+        "name": "연산6동",
         "adm_cd": "2113060",
         "adm_cd2": "2647070000",
         "sgg": "26470",
@@ -40891,7 +40891,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 596,
-        "name": "부산광역시 연제구 연산8동",
+        "name": "연산8동",
         "adm_cd": "2113062",
         "adm_cd2": "2647072000",
         "sgg": "26470",
@@ -41085,7 +41085,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 597,
-        "name": "부산광역시 연제구 연산9동",
+        "name": "연산9동",
         "adm_cd": "2113063",
         "adm_cd2": "2647073000",
         "sgg": "26470",
@@ -41363,7 +41363,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 598,
-        "name": "부산광역시 수영구 남천1동",
+        "name": "남천1동",
         "adm_cd": "2114051",
         "adm_cd2": "2650066000",
         "sgg": "26500",
@@ -41641,7 +41641,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 599,
-        "name": "부산광역시 수영구 남천2동",
+        "name": "남천2동",
         "adm_cd": "2114052",
         "adm_cd2": "2650067000",
         "sgg": "26500",
@@ -41751,7 +41751,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 600,
-        "name": "부산광역시 수영구 수영동",
+        "name": "수영동",
         "adm_cd": "2114053",
         "adm_cd2": "2650073000",
         "sgg": "26500",
@@ -41925,7 +41925,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 601,
-        "name": "부산광역시 수영구 망미1동",
+        "name": "망미1동",
         "adm_cd": "2114054",
         "adm_cd2": "2650074000",
         "sgg": "26500",
@@ -42171,7 +42171,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 602,
-        "name": "부산광역시 수영구 망미2동",
+        "name": "망미2동",
         "adm_cd": "2114055",
         "adm_cd2": "2650075000",
         "sgg": "26500",
@@ -42337,7 +42337,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 603,
-        "name": "부산광역시 수영구 광안1동",
+        "name": "광안1동",
         "adm_cd": "2114056",
         "adm_cd2": "2650076000",
         "sgg": "26500",
@@ -42571,7 +42571,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 604,
-        "name": "부산광역시 수영구 광안2동",
+        "name": "광안2동",
         "adm_cd": "2114057",
         "adm_cd2": "2650077000",
         "sgg": "26500",
@@ -42693,7 +42693,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 605,
-        "name": "부산광역시 수영구 광안3동",
+        "name": "광안3동",
         "adm_cd": "2114058",
         "adm_cd2": "2650078000",
         "sgg": "26500",
@@ -42891,7 +42891,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 606,
-        "name": "부산광역시 수영구 광안4동",
+        "name": "광안4동",
         "adm_cd": "2114059",
         "adm_cd2": "2650079000",
         "sgg": "26500",
@@ -43061,7 +43061,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 607,
-        "name": "부산광역시 수영구 민락동",
+        "name": "민락동",
         "adm_cd": "2114060",
         "adm_cd2": "2650080000",
         "sgg": "26500",
@@ -43251,7 +43251,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 608,
-        "name": "부산광역시 사상구 삼락동",
+        "name": "삼락동",
         "adm_cd": "2115051",
         "adm_cd2": "2653058000",
         "sgg": "26530",
@@ -43577,7 +43577,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 609,
-        "name": "부산광역시 사상구 모라1동",
+        "name": "모라1동",
         "adm_cd": "2115052",
         "adm_cd2": "2653059100",
         "sgg": "26530",
@@ -43727,7 +43727,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 610,
-        "name": "부산광역시 사상구 모라3동",
+        "name": "모라3동",
         "adm_cd": "2115054",
         "adm_cd2": "2653059300",
         "sgg": "26530",
@@ -44025,7 +44025,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 611,
-        "name": "부산광역시 사상구 덕포1동",
+        "name": "덕포1동",
         "adm_cd": "2115055",
         "adm_cd2": "2653060000",
         "sgg": "26530",
@@ -44175,7 +44175,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 612,
-        "name": "부산광역시 사상구 덕포2동",
+        "name": "덕포2동",
         "adm_cd": "2115056",
         "adm_cd2": "2653061000",
         "sgg": "26530",
@@ -44321,7 +44321,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 613,
-        "name": "부산광역시 사상구 괘법동",
+        "name": "괘법동",
         "adm_cd": "2115057",
         "adm_cd2": "2653062000",
         "sgg": "26530",
@@ -44727,7 +44727,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 614,
-        "name": "부산광역시 사상구 주례1동",
+        "name": "주례1동",
         "adm_cd": "2115060",
         "adm_cd2": "2653065000",
         "sgg": "26530",
@@ -44897,7 +44897,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 615,
-        "name": "부산광역시 사상구 주례2동",
+        "name": "주례2동",
         "adm_cd": "2115061",
         "adm_cd2": "2653066000",
         "sgg": "26530",
@@ -45235,7 +45235,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 616,
-        "name": "부산광역시 사상구 주례3동",
+        "name": "주례3동",
         "adm_cd": "2115062",
         "adm_cd2": "2653066100",
         "sgg": "26530",
@@ -45401,7 +45401,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 617,
-        "name": "부산광역시 사상구 학장동",
+        "name": "학장동",
         "adm_cd": "2115063",
         "adm_cd2": "2653067000",
         "sgg": "26530",
@@ -45771,7 +45771,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 618,
-        "name": "부산광역시 사상구 엄궁동",
+        "name": "엄궁동",
         "adm_cd": "2115064",
         "adm_cd2": "2653068000",
         "sgg": "26530",
@@ -46133,7 +46133,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 619,
-        "name": "부산광역시 사상구 감전동",
+        "name": "감전동",
         "adm_cd": "2115065",
         "adm_cd2": "2653064500",
         "sgg": "26530",
@@ -46579,7 +46579,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 620,
-        "name": "부산광역시 기장군 기장읍",
+        "name": "기장읍",
         "adm_cd": "2131011",
         "adm_cd2": "2671025000",
         "sgg": "26710",
@@ -47721,7 +47721,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 621,
-        "name": "부산광역시 기장군 장안읍",
+        "name": "장안읍",
         "adm_cd": "2131012",
         "adm_cd2": "2671025300",
         "sgg": "26710",
@@ -48951,7 +48951,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 622,
-        "name": "부산광역시 기장군 정관읍",
+        "name": "정관읍",
         "adm_cd": "2131013",
         "adm_cd2": "2671025600",
         "sgg": "26710",
@@ -50533,7 +50533,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 623,
-        "name": "부산광역시 기장군 일광면",
+        "name": "일광면",
         "adm_cd": "2131031",
         "adm_cd2": "2671031000",
         "sgg": "26710",
@@ -52131,7 +52131,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 624,
-        "name": "부산광역시 기장군 철마면",
+        "name": "철마면",
         "adm_cd": "2131033",
         "adm_cd2": "2671033000",
         "sgg": "26710",
@@ -54349,7 +54349,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 3437,
-        "name": "부산광역시 해운대구 우3동",
+        "name": "우3동",
         "adm_cd": "2109075",
         "adm_cd2": "2635052500",
         "sgg": "26350",
@@ -54519,7 +54519,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 3438,
-        "name": "부산광역시 부산진구 범천1동",
+        "name": "범천1동",
         "adm_cd": "2105077",
         "adm_cd2": "2623077000",
         "sgg": "26230",
@@ -54617,7 +54617,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 3448,
-        "name": "부산광역시 부산진구 범천2동",
+        "name": "범천2동",
         "adm_cd": "2105084",
         "adm_cd2": "2623078000",
         "sgg": "26230",
@@ -54979,7 +54979,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 3451,
-        "name": "부산광역시 강서구 명지2동",
+        "name": "명지2동",
         "adm_cd": "2112060",
         "adm_cd2": "2644054500",
         "sgg": "26440",
@@ -55041,7 +55041,7 @@
       "type": "Feature",
       "properties": {
         "OBJECTID": 3480,
-        "name": "부산광역시 금정구 장전2동",
+        "name": "장전2동",
         "adm_cd": "2111074",
         "adm_cd2": "2641061000",
         "sgg": "26410",
